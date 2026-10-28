@@ -3,4 +3,5 @@
 void main() {
     System.out.println("zuhra");
     System.out.println("O'lmas");
+    System.out.println("Akrom");
 }
